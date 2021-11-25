@@ -1,0 +1,17 @@
+name,time/op (ns/op),±
+CalculateNextState/1_threads-12,4.62945E+07,4%
+CalculateNextState/2_threads-12,2.36888E+07,2%
+CalculateNextState/3_threads-12,1.63041E+07,5%
+CalculateNextState/4_threads-12,1.38528E+07,41%
+CalculateNextState/5_threads-12,1.32697E+07,47%
+CalculateNextState/6_threads-12,1.35763E+07,21%
+CalculateNextState/7_threads-12,1.19554E+07,20%
+CalculateNextState/8_threads-12,1.07187E+07,17%
+CalculateNextState/9_threads-12,9.71434E+06,14%
+CalculateNextState/10_threads-12,9.18114E+06,16%
+CalculateNextState/11_threads-12,8.70205E+06,8%
+CalculateNextState/12_threads-12,1.02522E+07,2%
+CalculateNextState/13_threads-12,9.67956E+06,9%
+CalculateNextState/14_threads-12,9.86375E+06,28%
+CalculateNextState/15_threads-12,9.60608E+06,24%
+CalculateNextState/16_threads-12,9.49009E+06,5%

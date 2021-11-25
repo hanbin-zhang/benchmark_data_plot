@@ -1,0 +1,28 @@
+goos: linux
+goarch: amd64
+BenchmarkFilter/1_workers-8         	       1	 356825200 ns/op
+BenchmarkFilter/1_workers-8         	       1	 366416500 ns/op
+BenchmarkFilter/1_workers-8         	       1	 416734000 ns/op
+BenchmarkFilter/1_workers-8         	       1	 428058800 ns/op
+BenchmarkFilter/1_workers-8         	       1	 453606400 ns/op
+BenchmarkFilter/2_workers-8         	       1	 257833500 ns/op
+BenchmarkFilter/2_workers-8         	       1	 274002700 ns/op
+BenchmarkFilter/2_workers-8         	       1	 320934600 ns/op
+BenchmarkFilter/2_workers-8         	       1	 240004700 ns/op
+BenchmarkFilter/2_workers-8         	       1	 229392900 ns/op
+BenchmarkFilter/4_workers-8         	       1	 172230100 ns/op
+BenchmarkFilter/4_workers-8         	       1	 165484300 ns/op
+BenchmarkFilter/4_workers-8         	       1	 191772700 ns/op
+BenchmarkFilter/4_workers-8         	       1	 190314200 ns/op
+BenchmarkFilter/4_workers-8         	       1	 196051900 ns/op
+BenchmarkFilter/8_workers-8         	       1	 151205100 ns/op
+BenchmarkFilter/8_workers-8         	       1	 148569000 ns/op
+BenchmarkFilter/8_workers-8         	       1	 134035600 ns/op
+BenchmarkFilter/8_workers-8         	       1	 134413300 ns/op
+BenchmarkFilter/8_workers-8         	       1	 136114700 ns/op
+BenchmarkFilter/16_workers-8        	       1	 134870700 ns/op
+BenchmarkFilter/16_workers-8        	       1	 132912800 ns/op
+BenchmarkFilter/16_workers-8        	       1	 128168100 ns/op
+BenchmarkFilter/16_workers-8        	       1	 134034300 ns/op
+BenchmarkFilter/16_workers-8        	       1	 136296700 ns/op
+ok  	_/home/astastya/IdeaProjects/concurrency-lab-1/filter	11.424s
