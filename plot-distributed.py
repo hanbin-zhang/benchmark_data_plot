@@ -50,5 +50,9 @@ if __name__ == '__main__':
                    color='blue', label="3 servers", marker="x")
     # plt.legend(handles=[ln1, ln2], labels=['old, without mod', 'receive randomly, without mod'])
     # ln1.set_label('Label via method')
+    # fig, ax = plt.subplot()
+    # ax.set_xlabel('Worker threads used')
+    # ax.set_ylabel('Time taken (s)')
+
     plt.legend()
     plt.show()
